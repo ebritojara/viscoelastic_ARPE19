@@ -1,3 +1,7 @@
-# Paper_MelatoninLambEsophagus
-This repository provides the data obtained from uniaxial tensile testing of experimental curves for the control and melatonin groups in lamb esophagus, corresponding to the article "Effect of Melatonin on Passive, Ex-Vivo Biomechanical Behavior of Lamb Esophagus."
-![image](https://github.com/user-attachments/assets/b4cb226d-ce00-407e-8b6c-0209f5cfe8f6)
+# Paper_viscoelastic_ARPE19
+This repository contains the experimental curves of the Lp/Rp and Rc/Rp ratios for the cells used in the article *"Experimental and Numerical Visco-Hyperelastic Mechanical Characterization of Epithelial Cells Using Micropipette Aspiration Technique"*, as well as the mechanical properties determined for each experiment.
+
+![image](https://github.com/user-attachments/assets/806b6d57-e096-4c5e-8774-f437c18dca0a)
+
+
+
